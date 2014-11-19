@@ -92,6 +92,7 @@
 		AAB1EF3B1A1C759200D7293D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAB1EF3C1A1C759200D7293D /* Interface.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Interface.storyboard; sourceTree = "<group>"; };
 		AAB1EF3E1A1C759200D7293D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		AAB1EF4A1A1C7E2C00D7293D /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +124,7 @@
 		AAB1EEEA1A1C754D00D7293D = {
 			isa = PBXGroup;
 			children = (
+				AAB1EF4A1A1C7E2C00D7293D /* readme.md */,
 				AAB1EEF51A1C754D00D7293D /* ExampleWatchApp */,
 				AAB1EF121A1C754D00D7293D /* ExampleWatchAppTests */,
 				AAB1EF271A1C759200D7293D /* ExampleWatchApp WatchKit Extension */,
