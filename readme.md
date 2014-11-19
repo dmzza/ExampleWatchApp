@@ -1,10 +1,11 @@
 # Example App for Watch Kit
+Built with Objective C
 
- - WatchKit App
+### WatchKit App
 ![watchkit screenshot](http://i.imgur.com/faZJhrG.gif)
 
- - WatchKit Glance
+### WatchKit Glance
 (blank)
 
- - WatchKit Action
+### WatchKit Action
 (blank)
